@@ -63,3 +63,9 @@ Log entry convention (parse-friendly):
 - Raw: [[raw/Sick leave enquiry]]
 - Wiki touches: [[wiki/sources/Sick leave enquiry]], [[wiki/concepts/Leave entitlement overview (Hong Kong)]], [[wiki/entities/Workday Benefits]], [[wiki/overview]], [[index]]
 - Notes: ServiceNow HR case excerpt (2024-10); People & Purpose lines: **no sick certificate for 1 day** HK paid sick; certificate when leave **greater than two days**. Flagged as **informal precedent** pending alignment with Compass / entitlement articles.
+
+## [2026-05-14] ingest | FY27 General Terms + PlanDocument (sales compensation)
+
+- Raws: [[raw/FY27 General Terms.pdf]], [[raw/PlanDocument.pdf]]
+- Wiki touches: [[wiki/sources/FY27 General Terms]], [[wiki/sources/FY2027 Individual Goal Sheet (PlanDocument)]], [[wiki/concepts/Sales compensation plan FY2027 (Workday)]], [[wiki/entities/Workday Benefits]], [[wiki/overview]], [[index]]
+- Notes: General Terms = global FY2027 Sales Comp framework (Plan Period **2026-02-01–2027-01-31**); PlanDocument = Individual Goal Sheet instance — wiki digests avoid pasting participant compensation tables (see raw for numbers).

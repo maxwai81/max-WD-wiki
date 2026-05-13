@@ -11,8 +11,8 @@ Personal **second brain** using the **LLM Wiki** pattern: immutable notes in the
 
 ## Current scope
 
-- **Corpus:** Workday **Hong Kong benefits** materials in `raw/` — primarily portal **Markdown** clippings; **PDF** schedules/certificates when supplied (HR, leave, insurance, travel, financial wellbeing, family support).
-- **Compilation status:** Markdown clippings tracked in `wiki/sources/*` alongside demand-ingested PDFs; latest additions include **corporate Travel & Expense Card** FAQs + User Agreement beside leave/medical/travel-program material — hub [[wiki/entities/Workday Benefits]].
+- **Corpus:** Workday **Hong Kong benefits** materials in `raw/` — primarily portal **Markdown** clippings; **PDF** schedules/certificates when supplied (HR, leave, insurance, travel, financial wellbeing, family support). **Sales compensation** PDFs (FY2027 General Terms + Individual Goal Sheet) are compiled for incentive-plan context alongside benefits.
+- **Compilation status:** Markdown clippings tracked in `wiki/sources/*` alongside demand-ingested PDFs; latest additions include **sales compensation FY2027** plus **corporate Travel & Expense Card** FAQs + User Agreement beside leave/medical/travel-program material — hub [[wiki/entities/Workday Benefits]].
 
 ## Domain note
 

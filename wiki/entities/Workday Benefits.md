@@ -54,6 +54,11 @@ tags: [workday, benefits, employer]
 - [[wiki/sources/Financial Wellbeing Support]]
 - [[wiki/sources/House Rent Reimbursement]]
 
+### Sales compensation (FY2027)
+
+- [[wiki/sources/FY27 General Terms]]
+- [[wiki/sources/FY2027 Individual Goal Sheet (PlanDocument)]]
+
 ## Compiled concept hubs
 
 - [[wiki/concepts/Leave entitlement overview (Hong Kong)]]
@@ -70,3 +75,4 @@ tags: [workday, benefits, employer]
 - [[wiki/concepts/Maven family and reproductive benefits]]
 - [[wiki/concepts/Mind Matters and WMHC]]
 - [[wiki/concepts/Financial programmes (Hong Kong)]]
+- [[wiki/concepts/Sales compensation plan FY2027 (Workday)]]

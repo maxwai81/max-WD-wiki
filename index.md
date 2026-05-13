@@ -50,6 +50,8 @@ Read this **before** drilling into folders. Links use vault-root paths (`[[wiki/
 | [[wiki/sources/Time Off in Lieu]] | Weekend/holiday travel TOIL mechanics |
 | [[wiki/sources/Sick leave enquiry]] | HR ticket (2024): HK 1-day paid sick—no cert per reply; cert when leave “> two days” — informal; vs formal policy TBD |
 | [[wiki/sources/Women's Health and Family Support]] | Maven programmes, wallet tax note, downloads list |
+| [[wiki/sources/FY27 General Terms]] | FY2027 Sales Compensation Plan General Terms (Feb26–Jan27): Goal Sheet pairing, Seismic addenda, LOA commission rules, termination, governance |
+| [[wiki/sources/FY2027 Individual Goal Sheet (PlanDocument)]] | Participant FY2027 Goal Sheet export: 60/40 territory ACV split, USD 250k crediting rule, arrears pay timing (figures in raw PDF only) |
 
 ## Entities
 
@@ -75,6 +77,7 @@ Read this **before** drilling into folders. Links use vault-root paths (`[[wiki/
 | [[wiki/concepts/Maven family and reproductive benefits]] | Maven + wallet + tax |
 | [[wiki/concepts/Mind Matters and WMHC]] | Optum-first mental health routing |
 | [[wiki/concepts/Financial programmes (Hong Kong)]] | ESPP/MPF/voluntary/Northstar/rent lens |
+| [[wiki/concepts/Sales compensation plan FY2027 (Workday)]] | General Terms + Individual Goal Sheet package; LOA interface with P&P |
 
 ## Synthesis / dossiers
 
