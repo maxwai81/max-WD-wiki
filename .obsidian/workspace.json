@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "45acb377d8b21afc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef3c86433711212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa2a9fc907a1390",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6a3471c3c8e51d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "556e8f77cc5e329b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa040f7d01a92fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19956b971b9e4954",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e7882c5821272ff1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "401cb9deb62d2e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "34be7f75316015f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "095eb8c243f38177",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b757778f142b713f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aa974ac6bbf060b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80be231e8c07ab72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4d4dba7491eaf654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9aa2a9fc907a1390",
+  "lastOpenFiles": [
+    "wiki/entities/Workday Benefits.md",
+    "wiki/sources/TribeGO App User Guide (Workday Hong Kong).md",
+    "wiki/sources/LGBT TRAVELERS IN THE AMERICAS.md",
+    "wiki/sources/CHUBB Claim Kit.md",
+    "wiki/sources/CHUBB Business Travel Program.md",
+    "wiki/sources/AIA Health Insurance Coverage.md",
+    "raw/CHUBB Claim Kit.pdf",
+    "raw/CHUBB Business Travel Program.pdf",
+    "raw/LGBT TRAVELERS IN THE AMERICAS.pdf",
+    "raw/TribeGO_App_User_Guide_Workday_Hong_Kong_2026_copy.pdf.pdf",
+    "raw/AIA Health Insurance Coverage.pdf",
+    "wiki/concepts/Business travel assistance (ISOS and Chubb).md",
+    "wiki/sources/Business Travel Accident & Business Travel Medical.md",
+    "raw/Business Travel Accident & Business Travel Medical.pdf",
+    "wiki/sources/Business Travel Medical and Security.md",
+    "raw/Bright Days Off.md",
+    "wiki/concepts/Financial programmes (Hong Kong).md",
+    "wiki/concepts/Mind Matters and WMHC.md",
+    "wiki/concepts/Maven family and reproductive benefits.md",
+    "wiki/concepts/Group medical insurance (AIA Hong Kong).md",
+    "wiki/concepts/Flexible benefits (Hong Kong).md",
+    "wiki/concepts/Time off in lieu for business travel.md",
+    "wiki/concepts/Enhanced bonding leave.md",
+    "wiki/concepts/Global compassionate leave.md",
+    "wiki/concepts/Personal leave of absence (Workday).md",
+    "wiki/concepts/Leave entitlement overview (Hong Kong).md",
+    "wiki/sources/Women's Health and Family Support.md",
+    "wiki/sources/Time Off in Lieu.md",
+    "wiki/sources/Taking Time Off 2.md",
+    "wiki/sources/Taking Time Off 1.md",
+    "wiki/sources/Taking Time Off.md",
+    "wiki/sources/Personal and Extended Leave of Absence.md",
+    "wiki/synthesis",
+    "raw/assets",
+    "wiki/concepts",
+    "wiki/entities"
+  ]
+}
