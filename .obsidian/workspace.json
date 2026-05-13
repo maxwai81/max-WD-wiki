@@ -11,10 +11,14 @@
             "id": "9aa2a9fc907a1390",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "raw/Sick leave enquiry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sick leave enquiry"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/Sick leave enquiry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Sick leave enquiry"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/Sick leave enquiry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sick leave enquiry"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/Sick leave enquiry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sick leave enquiry"
             }
           }
         ]
@@ -178,6 +185,21 @@
   },
   "active": "9aa2a9fc907a1390",
   "lastOpenFiles": [
+    "wiki/sources/Sick leave enquiry.md",
+    "raw/Sick leave enquiry.md",
+    "raw/Workday Corporate Travel and Expense Card User Agreement.md",
+    "wiki/concepts/Corporate travel and expense card (Workday).md",
+    "wiki/sources/Workday Corporate Travel and Expense Card User Agreement.md",
+    "wiki/sources/Everything You Need to Know About The Corporate Travel Credit Card.md",
+    "raw/Everything You Need to Know About The Corporate Travel Credit Card.md",
+    "raw/Women's Health and Family Support.md",
+    "raw/TribeGO_App_User_Guide_Workday_Hong_Kong_2026_copy.pdf.pdf",
+    "raw/Women's Health and Family Support 1.md",
+    "Clippings/Paid Time Off (PTO) Policy.md",
+    "wiki/concepts/Paid time off policy (Workday).md",
+    "wiki/sources/Paid Time Off (PTO) Policy.md",
+    "raw/Paid Time Off (PTO) Policy.md",
+    "Clippings",
     "wiki/entities/Workday Benefits.md",
     "wiki/sources/TribeGO App User Guide (Workday Hong Kong).md",
     "wiki/sources/LGBT TRAVELERS IN THE AMERICAS.md",
@@ -187,7 +209,6 @@
     "raw/CHUBB Claim Kit.pdf",
     "raw/CHUBB Business Travel Program.pdf",
     "raw/LGBT TRAVELERS IN THE AMERICAS.pdf",
-    "raw/TribeGO_App_User_Guide_Workday_Hong_Kong_2026_copy.pdf.pdf",
     "raw/AIA Health Insurance Coverage.pdf",
     "wiki/concepts/Business travel assistance (ISOS and Chubb).md",
     "wiki/sources/Business Travel Accident & Business Travel Medical.md",
@@ -197,22 +218,8 @@
     "wiki/concepts/Financial programmes (Hong Kong).md",
     "wiki/concepts/Mind Matters and WMHC.md",
     "wiki/concepts/Maven family and reproductive benefits.md",
-    "wiki/concepts/Group medical insurance (AIA Hong Kong).md",
-    "wiki/concepts/Flexible benefits (Hong Kong).md",
-    "wiki/concepts/Time off in lieu for business travel.md",
-    "wiki/concepts/Enhanced bonding leave.md",
-    "wiki/concepts/Global compassionate leave.md",
-    "wiki/concepts/Personal leave of absence (Workday).md",
-    "wiki/concepts/Leave entitlement overview (Hong Kong).md",
-    "wiki/sources/Women's Health and Family Support.md",
-    "wiki/sources/Time Off in Lieu.md",
-    "wiki/sources/Taking Time Off 2.md",
-    "wiki/sources/Taking Time Off 1.md",
-    "wiki/sources/Taking Time Off.md",
-    "wiki/sources/Personal and Extended Leave of Absence.md",
     "wiki/synthesis",
     "raw/assets",
-    "wiki/concepts",
-    "wiki/entities"
+    "wiki/concepts"
   ]
 }
