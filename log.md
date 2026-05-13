@@ -45,3 +45,21 @@ Log entry convention (parse-friendly):
 - Q: Clarify that `raw/` inputs include **`.md`** and **`.pdf`** alongside Sources rows.
 - Files: [[index]]
 - Notes: **Raw quick map** sentence tightened; examples added.
+
+## [2026-05-14] ingest | Paid Time Off (PTO) Policy
+
+- Raw: [[raw/Paid Time Off (PTO) Policy]] (content aligned with prior `Clippings/Paid Time Off (PTO) Policy.md` clipping from the same portal URL)
+- Wiki touches: [[wiki/sources/Paid Time Off (PTO) Policy]], [[wiki/concepts/Paid time off policy (Workday)]], [[wiki/sources/Leave Entitlement]], [[wiki/concepts/Leave entitlement overview (Hong Kong)]], [[wiki/entities/Workday Benefits]], [[wiki/overview]], [[index]]
+- Notes: Regional **EMEA/APAC/Japan** mechanics; pair with [[wiki/sources/Leave Entitlement]] for HK accrual ladder; **People Leaders** responsibilities section blank in clip.
+
+## [2026-05-14] ingest | Corporate Travel & Expense Card (FAQ + User Agreement)
+
+- Raw: [[raw/Everything You Need to Know About The Corporate Travel Credit Card]], [[raw/Workday Corporate Travel and Expense Card User Agreement]]
+- Wiki touches: [[wiki/sources/Everything You Need to Know About The Corporate Travel Credit Card]], [[wiki/sources/Workday Corporate Travel and Expense Card User Agreement]], [[wiki/concepts/Corporate travel and expense card (Workday)]], [[wiki/concepts/Business travel assistance (ISOS and Chubb)]], [[wiki/entities/Workday Benefits]], [[wiki/overview]], [[index]]
+- Notes: **Bank of America** programme; pairs operational FAQ (`bofaml.com/globalcardaccess`, fraud/dispute flows) with **User Agreement** (30-day reporting + liability carve-outs, HR card recovery duties, US-only Amazon caveat). Threshold **USD 3k annual travel→mandatory card** cites live **Travel & Expense Policy** link not clipped in vault.
+
+## [2026-05-14] ingest | Sick leave enquiry (HK — HR ticket)
+
+- Raw: [[raw/Sick leave enquiry]]
+- Wiki touches: [[wiki/sources/Sick leave enquiry]], [[wiki/concepts/Leave entitlement overview (Hong Kong)]], [[wiki/entities/Workday Benefits]], [[wiki/overview]], [[index]]
+- Notes: ServiceNow HR case excerpt (2024-10); People & Purpose lines: **no sick certificate for 1 day** HK paid sick; certificate when leave **greater than two days**. Flagged as **informal precedent** pending alignment with Compass / entitlement articles.

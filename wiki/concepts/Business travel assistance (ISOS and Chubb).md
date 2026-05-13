@@ -1,7 +1,7 @@
 ---
 title: Business travel assistance (ISOS and Chubb)
 type: concept
-updated: 2026-05-13
+updated: 2026-05-14
 tags: [travel, insurance, workday]
 ---
 
@@ -14,3 +14,5 @@ Program architecture in [[wiki/sources/Business Travel Medical and Security]] �
 **Brochure mechanics / war-risk wording:** [[wiki/sources/CHUBB Business Travel Program]]. **Claims channels by residence + SOS dial list:** [[wiki/sources/CHUBB Claim Kit]]. **LGBT traveller regional risk briefing** (filename “Americas”; content multi-region): [[wiki/sources/LGBT TRAVELERS IN THE AMERICAS]].
 
 Use this concept when answering “who do I call mid-trip?” → **ISOS first**.
+
+**Corporate card programme** (billing, disputes, mandatory travel swipe rules) → [[wiki/concepts/Corporate travel and expense card (Workday)]].
