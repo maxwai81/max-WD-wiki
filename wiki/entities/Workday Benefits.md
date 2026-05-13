@@ -1,7 +1,7 @@
 ---
 title: Workday Benefits
 type: entity
-updated: 2026-05-13
+updated: 2026-05-14
 tags: [workday, benefits, employer]
 ---
 
@@ -14,6 +14,7 @@ tags: [workday, benefits, employer]
 ### Leave & time
 
 - [[wiki/sources/Public Holidays]]
+- [[wiki/sources/Paid Time Off (PTO) Policy]]
 - [[wiki/sources/Leave Entitlement]]
 - [[wiki/sources/Taking Time Off]]
 - [[wiki/sources/Taking Time Off 1]]
@@ -23,6 +24,7 @@ tags: [workday, benefits, employer]
 - [[wiki/sources/Compassionate Leave]]
 - [[wiki/sources/Personal and Extended Leave of Absence]]
 - [[wiki/sources/Enhanced Bonding Leave]]
+- [[wiki/sources/Sick leave enquiry]]
 
 ### Health, insurance & wellbeing
 
@@ -43,6 +45,8 @@ tags: [workday, benefits, employer]
 - [[wiki/sources/CHUBB Business Travel Program]]
 - [[wiki/sources/CHUBB Claim Kit]]
 - [[wiki/sources/LGBT TRAVELERS IN THE AMERICAS]]
+- [[wiki/sources/Everything You Need to Know About The Corporate Travel Credit Card]]
+- [[wiki/sources/Workday Corporate Travel and Expense Card User Agreement]]
 
 ### Money & retirement
 
@@ -53,12 +57,14 @@ tags: [workday, benefits, employer]
 ## Compiled concept hubs
 
 - [[wiki/concepts/Leave entitlement overview (Hong Kong)]]
+- [[wiki/concepts/Paid time off policy (Workday)]]
 - [[wiki/concepts/Public holidays (Hong Kong)]]
 - [[wiki/concepts/Personal leave of absence (Workday)]]
 - [[wiki/concepts/Global compassionate leave]]
 - [[wiki/concepts/Enhanced bonding leave]]
 - [[wiki/concepts/Time off in lieu for business travel]]
 - [[wiki/concepts/Business travel assistance (ISOS and Chubb)]]
+- [[wiki/concepts/Corporate travel and expense card (Workday)]]
 - [[wiki/concepts/Group medical insurance (AIA Hong Kong)]]
 - [[wiki/concepts/Flexible benefits (Hong Kong)]]
 - [[wiki/concepts/Maven family and reproductive benefits]]

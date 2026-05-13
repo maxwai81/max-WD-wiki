@@ -1,7 +1,7 @@
 ---
 title: LLM Wiki catalog
 description: Content-oriented catalog of wiki pages — read this first before deep retrieval.
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
 # Wiki index
@@ -19,6 +19,7 @@ Read this **before** drilling into folders. Links use vault-root paths (`[[wiki/
 
 | Page | Summary |
 |------|---------|
+| [[wiki/sources/Paid Time Off (PTO) Policy]] | Regional PTO rules (EMEA/APAC/Japan clip): 20-day minimum, notice, carry-over cap, blackouts, PTO vs sick, notice-period use |
 | [[wiki/sources/Public Holidays]] | 2026 HK company-paid public holidays; pre-loaded in Workday caveat |
 | [[wiki/sources/Bright Days Off]] | 3 days/year volunteer leave; VTO + Benevity |
 | [[wiki/sources/AIA Health Insurance Coverage]] | AIA Plan 001 Benefit Summary (HKD): hospital/OP/dental/fertility/evacuation; Feb26–Jan27 |
@@ -27,6 +28,8 @@ Read this **before** drilling into folders. Links use vault-root paths (`[[wiki/
 | [[wiki/sources/CHUBB Business Travel Program]] | Chubb travel brochure: AD&D loss %, SOS member ID, war-risk note, US claims portal |
 | [[wiki/sources/CHUBB Claim Kit]] | Multinational claims: ISOS numbers; HK cohort → NA Chubb vs EU Chubb paths |
 | [[wiki/sources/LGBT TRAVELERS IN THE AMERICAS]] | LGBT traveller briefing (multi-region PDF): legal/social risk snapshots — pre-trip awareness |
+| [[wiki/sources/Everything You Need to Know About The Corporate Travel Credit Card]] | Corporate T&E card: activation (9+EID PIN flow), BoA PIN/alerts portal, fraud phones, ≥$3k travel→mandatory card, expense-item naming |
+| [[wiki/sources/Workday Corporate Travel and Expense Card User Agreement]] | Binding T&E card rules: solo use, 30-day receipts, disciplinary risk, liability, BoA/BAML privacy, Amazon Business US caveat |
 | [[wiki/sources/Compassionate Leave]] | 10 days/event global compassionate policy + event catalogue |
 | [[wiki/sources/Enhanced Bonding Leave]] | 12 weeks paid bonding; UK/IE holiday accrual nuance |
 | [[wiki/sources/Flexi Benefit]] | HK Flexi tiers, TribeGo, 50% holiday cap, Feb cut-off |
@@ -45,6 +48,7 @@ Read this **before** drilling into folders. Links use vault-root paths (`[[wiki/
 | [[wiki/sources/Taking Time Off 1]] | Mind Matters / Optum article (URL mentions Lyra historically) |
 | [[wiki/sources/Taking Time Off 2]] | Child mental health: Optum + Maven bridge |
 | [[wiki/sources/Time Off in Lieu]] | Weekend/holiday travel TOIL mechanics |
+| [[wiki/sources/Sick leave enquiry]] | HR ticket (2024): HK 1-day paid sick—no cert per reply; cert when leave “> two days” — informal; vs formal policy TBD |
 | [[wiki/sources/Women's Health and Family Support]] | Maven programmes, wallet tax note, downloads list |
 
 ## Entities
@@ -57,13 +61,15 @@ Read this **before** drilling into folders. Links use vault-root paths (`[[wiki/
 
 | Page | Summary |
 |------|---------|
-| [[wiki/concepts/Leave entitlement overview (Hong Kong)]] | Leave map + **PLOA row vs PLOA detail contradiction** |
+| [[wiki/concepts/Leave entitlement overview (Hong Kong)]] | Leave map + **PLOA row vs PLOA detail contradiction** + sick-cert ticket pointer |
+| [[wiki/concepts/Paid time off policy (Workday)]] | PTO guardrails from regional policy: min usage, booking lead times, 5-day carry-over, audits, peak caps |
 | [[wiki/concepts/Public holidays (Hong Kong)]] | Company-paid holiday definition + 2026 pointers |
 | [[wiki/concepts/Personal leave of absence (Workday)]] | PLOA / extended durations and gates |
 | [[wiki/concepts/Global compassionate leave]] | 10-day compassionate framework |
 | [[wiki/concepts/Enhanced bonding leave]] | 12-week bonding programme essentials |
 | [[wiki/concepts/Time off in lieu for business travel]] | TOIL earn/use rules |
 | [[wiki/concepts/Business travel assistance (ISOS and Chubb)]] | Who to call; coverage pattern |
+| [[wiki/concepts/Corporate travel and expense card (Workday)]] | BoA-managed corporate card obligations plus FAQ mechanics (PIN, disputes, mandatory-use threshold cues), anchored to upstream Travel & Expense Policy |
 | [[wiki/concepts/Flexible benefits (Hong Kong)]] | Flexi wallet / TribeGo mental model |
 | [[wiki/concepts/Group medical insurance (AIA Hong Kong)]] | Corporate medical + fertility interfaces |
 | [[wiki/concepts/Maven family and reproductive benefits]] | Maven + wallet + tax |

@@ -1,7 +1,7 @@
 ---
 title: Leave Entitlement (source digest)
 type: source
-updated: 2026-05-13
+updated: 2026-05-14
 tags: [benefits, hk, leave, workday]
 ---
 
@@ -22,9 +22,10 @@ tags: [benefits, hk, leave, workday]
 
 ## Claims
 
-- Booking path: Workday **Request Absence** links in raw; **Paid Time Off Policy** separate link for PTO guidelines.
+- Booking path: Workday **Request Absence** links in raw; **Paid Time Off Policy** separate link for PTO guidelines — compiled at [[wiki/sources/Paid Time Off (PTO) Policy]].
 - Manager owns **Return Worker from Leave** task (with self-service option per clip).
 
 ## See also
 
+- [[wiki/sources/Paid Time Off (PTO) Policy]]
 - [[wiki/concepts/Leave entitlement overview (Hong Kong)]]

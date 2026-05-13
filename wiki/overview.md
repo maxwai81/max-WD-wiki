@@ -1,7 +1,7 @@
 ---
 title: Vault overview
 type: overview
-updated: 2026-05-13
+updated: 2026-05-14
 tags: [benefits, workday]
 ---
 
@@ -12,7 +12,11 @@ Personal **second brain** using the **LLM Wiki** pattern: immutable notes in the
 ## Current scope
 
 - **Corpus:** Workday **Hong Kong benefits** materials in `raw/` — primarily portal **Markdown** clippings; **PDF** schedules/certificates when supplied (HR, leave, insurance, travel, financial wellbeing, family support).
-- **Compilation status:** **All current `raw` markdown clips are ingested** into `wiki/sources/*`; PDF sources ingested on demand with matching digests — cross-linked **concepts** and hub [[wiki/entities/Workday Benefits]].
+- **Compilation status:** Markdown clippings tracked in `wiki/sources/*` alongside demand-ingested PDFs; latest additions include **corporate Travel & Expense Card** FAQs + User Agreement beside leave/medical/travel-program material — hub [[wiki/entities/Workday Benefits]].
+
+## Domain note
+
+**Travel paperwork split:** insured trip assistance (ISOS/Chubb) lives in dedicated **business travel insurance** digests; **corporate-card** spend rules/agreements compile under [[wiki/concepts/Corporate travel and expense card (Workday)]], still referencing upstream **Travel & Expense Policy** links that ship only on live portals.
 
 ## How to extend
 
@@ -24,3 +28,4 @@ Add new files under `raw/` (and attachments under `raw/assets/`) → request **i
 - **Known doc tension:** [[wiki/sources/Leave Entitlement]] summary row vs [[wiki/sources/Personal and Extended Leave of Absence]] for PLOA eligibility windows — flagged in [[wiki/concepts/Leave entitlement overview (Hong Kong)]].
 - Fertility funding bullets on [[wiki/sources/Health Insurance 1]] need **broker confirmation** against Maven Wallet language.
 - No multi-policy **synthesis dossier** yet (optional next step for cross-comparisons).
+- **HR-case clippings** (e.g. ServiceNow ticket prose) complement published benefits pages but **do not supersede** official policy text — see [[wiki/sources/Sick leave enquiry]] pattern.
