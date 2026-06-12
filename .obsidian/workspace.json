@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef3c86433711212",
+        "id": "c776350a221eb954",
         "type": "tabs",
         "children": [
           {
-            "id": "9aa2a9fc907a1390",
+            "id": "c4e529e6cc1861a8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,11 +176,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "9aa2a9fc907a1390",
+  "active": "9aa040f7d01a92fc",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "2026-06-12.md",
+    "Untitled.canvas",
+    "wiki/sources/FY27 General Terms.md",
     "wiki/concepts/Sales compensation plan FY2027 (Workday).md",
     "wiki/sources/FY2027 Individual Goal Sheet (PlanDocument).md",
-    "wiki/sources/FY27 General Terms.md",
     "raw/FY27 General Terms.pdf",
     "raw/PlanDocument.pdf",
     "wiki/sources/Workday Corporate Travel and Expense Card User Agreement.md",
@@ -211,8 +214,6 @@
     "wiki/concepts/Business travel assistance (ISOS and Chubb).md",
     "wiki/sources/Business Travel Accident & Business Travel Medical.md",
     "raw/Business Travel Accident & Business Travel Medical.pdf",
-    "wiki/sources/Business Travel Medical and Security.md",
-    "raw/Bright Days Off.md",
     "wiki/synthesis"
   ]
 }
