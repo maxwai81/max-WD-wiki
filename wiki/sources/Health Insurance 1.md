@@ -22,7 +22,8 @@ tags: [benefits, hk, aia, medical, workday]
 
 ## Fertility add-on
 
-- **HKD 50,000** per policy year **fertility treatment** limit enumerated on [[wiki/sources/AIA Health Insurance Coverage]] (Plan 001 modalities/remark **19**). Portal narrative describes **AIA first**, then **Maven Wallet** for **additional funding up to USD 25,000** with overlapping bullets — **Maven overlay still reconcile with broker** vs SPD wording (portal retained as routing narrative).
+- **HKD 50,000** per policy year **fertility treatment** limit enumerated on [[wiki/sources/AIA Health Insurance Coverage]] (Plan 001 modalities/remark **19**).
+- Portal narrative previously described AIA + **Maven Wallet** (up to USD 25,000 additional) — **Maven Wallet is no longer available to HK employees effective 2026-02-01 (US only)**. AIA Plan 001 is now the **sole** insurance-backed fertility funding layer for HK. See [[wiki/concepts/Maven family and reproductive benefits]].
 
 ## Compliance / fraud
 
@@ -30,7 +31,7 @@ tags: [benefits, hk, aia, medical, workday]
 
 ## Open questions
 
-- Maven Wallet **USD** layer sequencing vs **AIA HKD 50k** bucket — HR/broker clarification still useful for edge cases (PDF defines **AIA** slice only).
+- Maven Wallet USD layer is now **moot for HK** — no further broker reconciliation needed on that point. AIA HKD 50k is the complete picture.
 
 ## See also
 

@@ -26,6 +26,6 @@ Add new files under `raw/` (and attachments under `raw/assets/`) → request **i
 
 - Some clips contain **stub FAQ sections** without answers — live site or People Guide may hold detail.
 - **Known doc tension:** [[wiki/sources/Leave Entitlement]] summary row vs [[wiki/sources/Personal and Extended Leave of Absence]] for PLOA eligibility windows — flagged in [[wiki/concepts/Leave entitlement overview (Hong Kong)]].
-- Fertility funding bullets on [[wiki/sources/Health Insurance 1]] need **broker confirmation** against Maven Wallet language.
+- ~~Fertility funding bullets on [[wiki/sources/Health Insurance 1]] need broker confirmation against Maven Wallet language.~~ **Resolved 2026-06-12:** Maven Wallet is US-only from 2026-02-01; AIA Plan 001 HKD 50k is the complete HK fertility insurance picture — see [[wiki/concepts/Maven family and reproductive benefits]].
 - No multi-policy **synthesis dossier** yet (optional next step for cross-comparisons).
 - **HR-case clippings** (e.g. ServiceNow ticket prose) complement published benefits pages but **do not supersede** official policy text — see [[wiki/sources/Sick leave enquiry]] pattern.

@@ -69,3 +69,29 @@ Log entry convention (parse-friendly):
 - Raws: [[raw/FY27 General Terms.pdf]], [[raw/PlanDocument.pdf]]
 - Wiki touches: [[wiki/sources/FY27 General Terms]], [[wiki/sources/FY2027 Individual Goal Sheet (PlanDocument)]], [[wiki/concepts/Sales compensation plan FY2027 (Workday)]], [[wiki/entities/Workday Benefits]], [[wiki/overview]], [[index]]
 - Notes: General Terms = global FY2027 Sales Comp framework (Plan Period **2026-02-01–2027-01-31**); PlanDocument = Individual Goal Sheet instance — wiki digests avoid pasting participant compensation tables (see raw for numbers).
+
+## [2026-06-12] lint | full vault health check
+
+### Staleness fixed
+- **[[wiki/overview.md]]** — struck out stale open gap on Maven Wallet/AIA fertility reconciliation; annotated as resolved 2026-06-12 per [[wiki/concepts/Maven family and reproductive benefits]].
+- **[[wiki/sources/Women's Health and Family Support]]** — Summary section now flags Maven Wallet as US-only from 2026-02-01 (was only in Contradictions).
+
+### Contradictions (existing, already documented)
+- **PLOA eligibility table vs detail page** — [[wiki/sources/Leave Entitlement]] row understates day-one PLOA; resolution pointer in place across concept and source pages. No change needed.
+- **Sick leave cert threshold** — [[wiki/sources/Sick leave enquiry]] informal ticket; flagged as pending formal policy reconciliation. No change needed.
+
+### Orphans
+- No true orphans: all source pages are linked from [[wiki/entities/Workday Benefits]] hub and/or at least one concept page.
+- **Near-orphan:** [[wiki/sources/LGBT TRAVELERS IN THE AMERICAS]] is listed in the entity hub but has no inbound concept page — low priority unless travel policy questions arise.
+
+### Missing concept stubs (created)
+- **[[wiki/concepts/Caregiving leave (Workday)]]** — new page; 12 wks / 50% base; layering table vs compassionate + PLOA.
+- **[[wiki/concepts/Life insurance (AIA Hong Kong)]]** — new page; AIA group life/AD&D/TPD/CI/LTD stack; linked from [[wiki/sources/Life Insurance]].
+- **[[wiki/concepts/Employee Relief Fund (E4E)]]** — stub only; no raw source ingested; flags open questions for P&P.
+- **[[index]]** updated with all three new concept entries.
+
+## [2026-06-12] query | Maven Wallet HK ineligibility (effective 2026-02-01)
+
+- Q: Maven Wallet is now US-only; HK employees ineligible since 2026-02-01.
+- Files touched: [[wiki/concepts/Maven family and reproductive benefits]], [[wiki/sources/Women's Health and Family Support]], [[wiki/sources/Health Insurance 1]], [[wiki/sources/AIA Health Insurance Coverage]]
+- Notes: Added HK-ineligibility callout to Maven concept page; updated Contradictions sections on Women's Health and Health Insurance 1 source digests to mark Wallet bullets as US-only; resolved prior "reconcile with broker" open question on AIA HKD 50k fertility — that is now the complete HK fertility insurance picture. Maven core virtual care (non-Wallet) scope unconfirmed — flagged for P&P check.

@@ -42,7 +42,8 @@ Structured **benefit schedule** (in-network vs non-network columns) for hospital
 
 ## Contradictions
 
-- None flagged vs [[wiki/sources/Health Insurance 1]] — portal bullets match this summary’s **order-of-magnitude** limits (GP/specialist/med/dental/fertility **HKD 50k**); Maven Wallet **USD** layer remains **outside this PDF** — keep broker reconciliation noted on portal digest.
+- None flagged vs [[wiki/sources/Health Insurance 1]] — portal bullets match this summary’s **order-of-magnitude** limits (GP/specialist/med/dental/fertility **HKD 50k**).
+- **Maven Wallet USD layer is no longer relevant for HK** (US-only effective 2026-02-01) — AIA Plan 001 HKD 50,000 fertility limit is the **complete** HK fertility insurance picture. See [[wiki/concepts/Maven family and reproductive benefits]].
 
 ## See also
 

@@ -11,10 +11,14 @@
             "id": "c4e529e6cc1861a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
             }
           }
         ]
@@ -176,11 +180,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "9aa040f7d01a92fc",
+  "active": "c4e529e6cc1861a8",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "2026-06-12.md",
+    "CLAUDE.md",
+    "log.md",
+    "index.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
+    "wiki/concepts/Employee Relief Fund (E4E).md",
+    "wiki/concepts/Life insurance (AIA Hong Kong).md",
+    "wiki/concepts/Caregiving leave (Workday).md",
     "wiki/sources/FY27 General Terms.md",
     "wiki/concepts/Sales compensation plan FY2027 (Workday).md",
     "wiki/sources/FY2027 Individual Goal Sheet (PlanDocument).md",
@@ -204,15 +214,10 @@
     "wiki/entities/Workday Benefits.md",
     "wiki/sources/TribeGO App User Guide (Workday Hong Kong).md",
     "wiki/sources/LGBT TRAVELERS IN THE AMERICAS.md",
-    "wiki/sources/CHUBB Claim Kit.md",
-    "wiki/sources/CHUBB Business Travel Program.md",
-    "wiki/sources/AIA Health Insurance Coverage.md",
     "raw/CHUBB Claim Kit.pdf",
     "raw/CHUBB Business Travel Program.pdf",
     "raw/LGBT TRAVELERS IN THE AMERICAS.pdf",
     "raw/AIA Health Insurance Coverage.pdf",
-    "wiki/concepts/Business travel assistance (ISOS and Chubb).md",
-    "wiki/sources/Business Travel Accident & Business Travel Medical.md",
     "raw/Business Travel Accident & Business Travel Medical.pdf",
     "wiki/synthesis"
   ]

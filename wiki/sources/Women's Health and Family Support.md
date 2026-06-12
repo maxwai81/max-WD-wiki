@@ -13,7 +13,7 @@ tags: [benefits, hk, maven, family, workday]
 
 ## Summary
 
-Canonical **Maven** marketing page listing modules: Maven core virtual care through **child age 10**, **Maven Wallet** reimbursements (**taxable**) for fertility/adoption/surrogacy with locale-specific lifetime caps messaging, Maven Menopause, Maven Milk lactation logistics, Maven Parenting & Paediatrics, Maven Wellness menstrual/reproductive speciality links.
+Canonical **Maven** marketing page listing modules: Maven core virtual care through **child age 10**, **Maven Wallet** reimbursements (**taxable**, **US employees only from 2026-02-01 — HK ineligible**) for fertility/adoption/surrogacy with locale-specific lifetime caps messaging, Maven Menopause, Maven Milk lactation logistics, Maven Parenting & Paediatrics, Maven Wellness menstrual/reproductive speciality links.
 
 Enrollment portal + app downloads; Maven enrollment **marketed confidential** (“not shared with Workday”). New joiners: access begins **after first week** wording matches Northstar pacing.
 
@@ -23,7 +23,8 @@ Downloads list abundant PDF artefacts (see raw list footer).
 
 ## Contradictions
 
-- Must align Maven Wallet reproductive funding description with clipped fertility numbers on [[wiki/sources/Health Insurance 1]] vs Maven Wallet fertility sections — reconcile with brokers when planning care.
+- **Maven Wallet HK ineligibility (confirmed 2026-02-01):** Maven Wallet (fertility/adoption/surrogacy reimbursements) is now **US employees only** effective 2026-02-01. Portal narrative on this page still describes Wallet broadly — treat Wallet bullets as **US-only**; HK employees are limited to AIA Plan 001 (HKD 50,000/year) for fertility funding. See [[wiki/concepts/Maven family and reproductive benefits]].
+- Portal fertility narrative pre-2026-02-01 aligned with [[wiki/sources/Health Insurance 1]] — that reconciliation note is now moot for HK; AIA is the sole insurance layer.
 
 ## See also
 

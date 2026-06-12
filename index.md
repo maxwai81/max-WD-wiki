@@ -78,6 +78,9 @@ Read this **before** drilling into folders. Links use vault-root paths (`[[wiki/
 | [[wiki/concepts/Mind Matters and WMHC]] | Optum-first mental health routing |
 | [[wiki/concepts/Financial programmes (Hong Kong)]] | ESPP/MPF/voluntary/Northstar/rent lens |
 | [[wiki/concepts/Sales compensation plan FY2027 (Workday)]] | General Terms + Individual Goal Sheet package; LOA interface with P&P |
+| [[wiki/concepts/Caregiving leave (Workday)]] | 12 weeks / rolling 12 months / 50% base pay; layering guide vs compassionate + PLOA |
+| [[wiki/concepts/Life insurance (AIA Hong Kong)]] | AIA group life/AD&D/TPD/CI/LTD stack; 4× BAS formula; eligibility + caps |
+| [[wiki/concepts/Employee Relief Fund (E4E)]] | Stub — peer hardship fund referenced in compassionate leave clip; no raw source yet |
 
 ## Synthesis / dossiers
 
